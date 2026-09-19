@@ -1,6 +1,6 @@
 # Hammerbook
 
-**What used commercial kitchen equipment is really worth — backed by what it actually sold for.**
+**What used commercial kitchen equipment is really worth, backed by what it actually sold for.**
 
 Hammerbook helps auctioneers, liquidators and equipment dealers put a defensible number on used commercial kitchen equipment. Photograph a unit and its data plate; get a value range built from comparable sales, with the comps shown.
 
@@ -49,7 +49,7 @@ GitHub Pages serves this repository at gethammerbook.com.
 - Custom domain: `gethammerbook.com`
 - Enforce HTTPS: on
 
-**DNS records at your registrar** — four A records on the apex domain, all pointing at GitHub:
+**DNS records at your registrar.** Four A records on the apex domain, all pointing at GitHub:
 
 ```
 185.199.108.153
@@ -60,7 +60,7 @@ GitHub Pages serves this repository at gethammerbook.com.
 
 Plus one CNAME record for `www` pointing to `jacobtylerrobinson.github.io`.
 
-DNS changes can take anywhere from ten minutes to a few hours to take effect. The HTTPS certificate appears on its own once DNS resolves — if "Enforce HTTPS" is greyed out, wait and come back.
+DNS changes can take anywhere from ten minutes to a few hours to take effect. The HTTPS certificate appears on its own once DNS resolves. If "Enforce HTTPS" is greyed out, wait and come back.
 
 ---
 
@@ -74,11 +74,11 @@ It reports visits, pageviews, countries, referrers and which pages were viewed.
 
 ---
 
-## Positioning — keep this consistent everywhere
+## Positioning: keep this consistent everywhere
 
 **Hammerbook produces estimates to support pricing decisions. It does not produce certified appraisals.**
 
-Certified appraisal is a real profession with real standards (USPAP). Never imply otherwise — in the product, in the marketing, or on a phone call.
+Certified appraisal is a real profession with real standards (USPAP). Never imply otherwise, in the product, in the marketing, or on a phone call.
 
 ---
 
